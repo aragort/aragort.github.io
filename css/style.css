@@ -76,7 +76,8 @@ background-repeat: no-repeat; }
 
 .section{
 
-    padding: 100px;
+    padding: 2%;
+    margin: auto;
 }
 
 #about h4, h5 {
