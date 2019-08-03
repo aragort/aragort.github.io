@@ -91,10 +91,13 @@ background-repeat: no-repeat; }
 }
 
 .aboutImage {
-    max-width: 100%;
+    max-width: 90%;
+    padding-top: 10%
 }
 
-
+.aboutText {
+    max-width: 80%;
+}
 .skillsSection,
 .contactSection {
 
